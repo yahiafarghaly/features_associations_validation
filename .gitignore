@@ -1,0 +1,17 @@
+nbproject/*
+build/*
+bin/*
+*~
+*/*~
+vision_layer/svo_samples/*
+Tests/GPIO/a.out
+fusion/ekf_slam_large_map/data/.svn/*
+fusion/ekf_slam_large_map/matlab/tools/.svn/*
+fusion/ekf_slam_large_map/plots/old\ plots/.svn/*
+.vscode/*
+Makefile
+CMakeFiles/*
+cmake_install.cmake
+CMakeCache.txt
+compile_commands.json
+validation
